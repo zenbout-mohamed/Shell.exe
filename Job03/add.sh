@@ -1,8 +1,6 @@
 #!/bin/bash
 
 
-#!/bin/bash
-
 # Demander à l'utilisateur d'entrer les deux nombres
 read -p "Entrez le premier nombre : " nombre1
 read -p "Entrez le deuxième nombre : " nombre2

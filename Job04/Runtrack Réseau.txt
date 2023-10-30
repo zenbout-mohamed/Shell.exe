@@ -1,0 +1,288 @@
+Runtrack Réseau
+
+job2
+Q1. Qu’est ce qu’un réseau ?
+
+Un réseau, dans le contexte de la technologie de l'information et de la communication, désigne généralement un ensemble d'appareils, d'ordinateurs, de périphériques ou de systèmes interconnectés qui communiquent entre eux pour partager des informations, des ressources ou des services. Les réseaux sont essentiels à la communication et à l'échange de données, que ce soit localement (dans une même pièce ou un même bâtiment) ou à l'échelle mondiale via Internet.
+Il existe différents types de réseaux, notamment :
+Les réseaux locaux (LAN, Local Area Network) : Ils couvrent une petite zone géographique, comme un bureau, une maison ou un campus universitaire, et permettent la connexion d'ordinateurs et de périphériques pour le partage de fichiers, d'imprimantes et d'autres ressources.
+Les réseaux étendus (WAN, Wide Area Network) : Ils s'étendent sur de plus grandes distances, souvent à l'échelle d'une ville, d'un pays ou même du monde entier. Internet est un exemple de WAN.
+Les réseaux sans fil (Wi-Fi) : Ils permettent la connexion d'appareils sans l'utilisation de câbles physiques, facilitant la mobilité et l'accès à Internet via des points d'accès sans fil.
+Les réseaux sociaux : Ce sont des plateformes en ligne qui relient des individus ou des groupes à des fins de communication, de partage d'informations et d'interaction sociale.
+Les réseaux informatiques d'entreprise : Ils sont utilisés par les organisations pour connecter leurs systèmes informatiques, leurs serveurs, leurs bases de données et leurs postes de travail afin de faciliter la gestion des données et des processus internes.
+Les réseaux peer-to-peer (P2P) : Ils permettent à des pairs (utilisateurs individuels) de se connecter directement les uns aux autres pour partager des fichiers ou des ressources sans passer par un serveur central.
+Les réseaux de télécommunications : Ils englobent les infrastructures de télécommunication, y compris les réseaux de téléphonie fixe, mobile et les réseaux de communication par satellite.
+Les réseaux sont fondamentaux dans notre société moderne et jouent un rôle central dans la connectivité, la collaboration, le partage d'informations et le fonctionnement des systèmes informatiques et de communication à l'échelle mondiale. Ils peuvent prendre de nombreuses formes, en fonction des besoins et des objectifs de communication de chaque entité ou individu.
+
+
+
+
+
+
+
+
+
+
+
+Ordinateurs ou Dispositifs Clients :
+
+Fonction : Ce sont les appareils qui se connectent au réseau pour accéder aux ressources partagées (comme des fichiers, des imprimantes, des serveurs, etc.) ou pour accéder à Internet.
+Serveurs :
+
+Fonction : Les serveurs sont des ordinateurs spécialisés qui fournissent des services aux autres dispositifs du réseau. Ils peuvent héberger des sites web, des bases de données, des fichiers, etc.
+Routeurs :
+
+Fonction : Les routeurs dirigent le trafic entre différentes parties d'un réseau, notamment entre le réseau local (LAN) et Internet. Ils utilisent des tables de routage pour prendre des décisions sur la meilleure façon d'envoyer les données.
+Commutateurs (Switches) :
+
+Fonction : Les commutateurs connectent différents dispositifs au sein d'un réseau local (LAN) et permettent la communication directe entre eux. Ils apprennent et stockent les adresses MAC pour optimiser la transmission des données.
+Points d'Accès sans Fil (Access Points) :
+
+Fonction : Les points d'accès permettent aux dispositifs sans fil de se connecter à un réseau câblé. Ils étendent la portée du réseau en fournissant une connexion Wi-Fi.
+Modems :
+
+Fonction : Les modems convertissent les signaux numériques de votre réseau en signaux analogiques compréhensibles par votre fournisseur de services Internet (FSI) et vice versa. Ils sont utilisés pour établir une connexion Internet.
+Câbles et Connecteurs :
+
+Fonction : Les câbles (comme les câbles Ethernet) sont utilisés pour connecter physiquement les dispositifs du réseau. Les connecteurs (comme les prises RJ45) sont utilisés pour brancher les câbles.
+Cartes Réseau (NIC - Network Interface Cards) :
+
+Fonction : Ces cartes sont installées dans les ordinateurs et leur permettent de se connecter au réseau, que ce soit via un câble Ethernet ou sans fil.
+Firewalls :
+
+Fonction : Les pare-feux sont des dispositifs de sécurité qui filtrent et surveillent le trafic réseau pour protéger le réseau contre les menaces externes et internes.
+Équipement de Sécurité :
+
+Fonction : Cela peut inclure des dispositifs tels que des systèmes de détection d'intrusion (IDS), des systèmes de prévention d'intrusion (IPS), des antivirus, etc., qui contribuent à protéger le réseau contre les menaces.
+Onduleurs (UPS - Uninterruptible Power Supplies) :
+Fonction : Les onduleurs fournissent une alimentation électrique de secours en cas de coupure de courant, assurant ainsi une disponibilité continue des services réseau.
+Équipement de Sauvegarde :
+Fonction : Cela peut inclure des dispositifs de stockage (comme des serveurs NAS) et des logiciels de sauvegarde pour garantir que les données du réseau sont régulièrement sauvegardées et récupérables en cas de besoin.
+En fonction de la taille et de la complexité du réseau, d'autres composants spécifiques peuvent être nécessaires, tels que des commutateurs de niveau 3, des routeurs haute performance, des systèmes de stockage en réseau (SAN), etc. Il est important de concevoir le réseau en fonction des besoins spécifiques de l'organisation.
+
+
+
+
+Q.2 Qu’est ce qu’un réseau informatique?
+
+
+Le réseau informatique désigne les appareils informatiques interconnectés qui peuvent échanger des données et partager des ressources entre eux. Ces appareils en réseau utilisent un système de règles, appelées protocoles de communication, pour transmettre des informations sur des technologies physiques ou sans fil.
+Q.3 Quel matériel avons-nous besoin pour construire un réseau ? Détaillez lesfonctions de chaque pièce.
+Pour construire un réseau, vous aurez besoin de plusieurs composants matériels essentiels. Voici une liste des éléments principaux avec une brève explication de leurs fonctions :
+Ordinateurs ou Dispositifs Clients :
+Fonction : Ce sont les appareils qui se connectent au réseau pour accéder aux ressources partagées (comme des fichiers, des imprimantes, des serveurs, etc.) ou pour accéder à Internet.
+Serveurs :
+Fonction : Les serveurs sont des ordinateurs spécialisés qui fournissent des services aux autres dispositifs du réseau. Ils peuvent héberger des sites web, des bases de données, des fichiers, etc.
+Routeurs :
+Fonction : Les routeurs dirigent le trafic entre différentes parties d'un réseau, notamment entre le réseau local (LAN) et Internet. Ils utilisent des tables de routage pour prendre des décisions sur la meilleure façon d'envoyer les données.
+Commutateurs (Switches) :
+Fonction : Les commutateurs connectent différents dispositifs au sein d'un réseau local (LAN) et permettent la communication directe entre eux. Ils apprennent et stockent les adresses MAC pour optimiser la transmission des données.
+Points d'Accès sans Fil (Access Points) :
+Fonction : Les points d'accès permettent aux dispositifs sans fil de se connecter à un réseau câblé. Ils étendent la portée du réseau en fournissant une connexion Wi-Fi.
+Modems :
+Fonction : Les modems convertissent les signaux numériques de votre réseau en signaux analogiques compréhensibles par votre fournisseur de services Internet (FSI) et vice versa. Ils sont utilisés pour établir une connexion Internet.
+Câbles et Connecteurs :
+Fonction : Les câbles (comme les câbles Ethernet) sont utilisés pour connecter physiquement les dispositifs du réseau. Les connecteurs (comme les prises RJ45) sont utilisés pour brancher les câbles.
+Cartes Réseau (NIC - Network Interface Cards) :
+Fonction : Ces cartes sont installées dans les ordinateurs et leur permettent de se connecter au réseau, que ce soit via un câble Ethernet ou sans fil.
+Firewalls :
+Fonction : Les pare-feux sont des dispositifs de sécurité qui filtrent et surveillent le trafic réseau pour protéger le réseau contre les menaces externes et internes.
+Équipement de Sécurité :
+Fonction : Cela peut inclure des dispositifs tels que des systèmes de détection d'intrusion (IDS), des systèmes de prévention d'intrusion (IPS), des antivirus, etc., qui contribuent à protéger le réseau contre les menaces.
+Onduleurs (UPS - Uninterruptible Power Supplies) :
+Fonction : Les onduleurs fournissent une alimentation électrique de secours en cas de coupure de courant, assurant ainsi une disponibilité continue des services réseau.
+Équipement de Sauvegarde :
+Fonction : Cela peut inclure des dispositifs de stockage (comme des serveurs NAS) et des logiciels de sauvegarde pour garantir que les données du réseau sont régulièrement sauvegardées et récupérables en cas de besoin.
+En fonction de la taille et de la complexité du réseau, d'autres composants spécifiques peuvent être nécessaires, tels que des commutateurs de niveau 3, des routeurs haute performance, des systèmes de stockage en réseau (SAN), etc. Il est important de concevoir le réseau en fonction des besoins spécifiques de l'organisation.
+
+
+Pierre
+Adresse IP : 192.168.1.1
+
+Masque de sous-réseau : 255.255.255.0
+
+Alycia
+Adresse IP : 192.168.1.2
+
+
+
+
+
+Lorsqu'un ordinateur est éteint, son interface réseau n'est plus active, et il n'a pas la capacité de recevoir ou de répondre à des paquets de données réseau. Le protocole ICMP (Internet Control Message Protocol), utilisé par "ping", nécessite une réponse de l'ordinateur cible pour fonctionner. Si l'ordinateur cible est hors tension, il ne peut pas répondre aux requêtes "ping", ce qui entraîne une absence de réponse.
+
+En résumé, la commande "ping" ne peut vérifier la connectivité que lorsque l'ordinateur cible est actif et accessible sur le réseau. Si l'ordinateur que vous essayez de "pinger" est éteint, vous ne recevrez pas de réponse à la commande "pingCoûteux : Ils sont plus coûteux que les étendues de réseau.
+ 
+Coûteux : Ils sont plus coûteux que les étendues de réseau.
+ 
+Problèmes de disponibilité difficiles – Les problèmes
+de disponibilité du réseau sont difficiles à suivre via le changement d’organisation.
+ 
+Problèmes de diffusion du trafic –
+Le trafic de diffusion peut être problématique.
+ 
+Sans défense –
+Si les commutateurs sont en mode aveugle, ils sont sans défense contre les attaques de sécurité, par exemple la caricature d’adresse IP ou la capture de contours Ethernet.
+ 
+Nécessité d’une planification appropriée –
+Une planification et un agencement appropriés sont nécessaires pour traiter les colis multidiffusion.
+
+
+
+
+
+
+
+
+
+Un switch gère le trafic réseau en utilisant des informations contenues dans les trames de données pour prendre des décisions sur la manière de transmettre ces données aux périphériques appropriés. Voici comment un switch gère le trafic réseau :
+
+Apprentissage des adresses MAC : Lorsque des données arrivent sur un port du switch, le switch analyse la trame de données pour extraire l'adresse MAC source du périphérique émetteur. Il maintient ensuite une table de correspondance (table CAM - Content Addressable Memory) qui enregistre ces adresses MAC avec les ports correspondants.
+
+Filtrage et commutation : Lorsque des données sont destinées à un périphérique spécifique, le switch utilise la table d'adresses MAC pour déterminer sur quel port se trouve ce périphérique. Il transmet ensuite la trame de données uniquement sur ce port, évitant ainsi de diffuser les données sur l'ensemble du réseau. Cela réduit la congestion du réseau.
+
+Broadcast : Lorsque le switch reçoit une trame de diffusion (broadcast), il la transmet à tous les ports, car les diffusions sont destinées à tous les périphériques du réseau. Cependant, le switch n'envoie pas la trame de diffusion de retour sur le port source, car cela provoquerait une boucle de diffusion (broadcast storm).
+
+Gestion des collisions : Les switches gèrent les collisions de manière efficace en isolant les appareils sur des segments distincts appelés "collision domains." Cela signifie que les collisions sont rares, car chaque segment ne comporte que deux périphériques (un émetteur et un récepteur), ce qui améliore la performance du réseau.
+
+Mise à jour de la table CAM : La table CAM du switch est dynamique et s'adapte au trafic du réseau. Si le switch détecte qu'un périphérique a changé de port, il met à jour sa table d'adresses MAC en conséquence.
+
+Agrégation de liens : Certains switches avancés prennent en charge l'agrégation de liens (link aggregation), ce qui permet de combiner plusieurs ports physiques en un seul canal logique pour augmenter la bande passante et la redondance.
+
+Dans l'ensemble, le switch assure une gestion efficace du trafic en acheminant les données uniquement vers les ports nécessaires en fonction de l'adresse MAC de destination, en minimisant les diffusions inutiles et en minimisant les collisions. Cela améliore considérablement les performances du réseau par rapport à l'utilisation d'un hub, qui diffuse les données à tous les ports sans discernement
+
+
+La raison principale pour laquelle on utilise l'adresse 10.0.0.0 de classe A dans les réseaux privés est sa disponibilité d'adresses IP. Avec une classe A, il y a une énorme quantité d'adresses IP (2^24 - 2, car certaines sont réservées) disponibles pour l'attribution aux dispositifs du réseau, ce qui est généralement bien plus que suffisant pour la plupart des réseaux privés. En outre, l'utilisation d'une adresse de classe A permet une grande flexibilité dans la subdivision des réseaux privés en sous-réseaux plus petits en utilisant des masques de sous-réseau appropriés.
+
+
+
+
+
+
+
+Il existe plusieurs types d'adresses IP, chacun ayant une fonction et une portée spécifiques dans le contexte du protocole Internet (IP). Voici les principales catégories d'adresses IP et leurs différences :
+
+Adresse IP version 4 (IPv4) :
+
+IPv4 est le protocole IP original et le plus largement utilisé.
+Les adresses IPv4 sont des séquences de 32 bits, généralement représentées sous forme de quatre nombres décimaux séparés par des points (par exemple, 192.168.1.1).
+Les adresses IPv4 sont divisées en classes (A, B, C, D, E), mais la notation CIDR (Classless Inter-Domain Routing) est couramment utilisée pour permettre une allocation plus flexible des adresses.
+Les adresses IPv4 sont largement épuisées, car il n'y a qu'un nombre limité d'adresses disponibles (environ 4 milliards).
+Adresse IP version 6 (IPv6) :
+
+IPv6 est le protocole IP de nouvelle génération conçu pour remplacer IPv4.
+Les adresses IPv6 sont composées de 128 bits, ce qui offre un nombre massif d'adresses (environ 340 undécillions).
+Les adresses IPv6 sont généralement représentées sous forme d'hexadécimal, séparées par des deux-points (par exemple, 2001:0db8:85a3:0000:0000:8a2e:0370:7334).
+IPv6 a été développé pour faire face à l'épuisement imminent des adresses IPv4 et pour répondre aux besoins croissants de l'Internet des objets (IoT).
+Adresse IP publique :
+
+Une adresse IP publique est une adresse utilisée pour identifier un dispositif ou un réseau sur Internet.
+Elle est routable sur Internet et peut être utilisée pour communiquer directement avec des ressources sur le réseau mondial.
+Les fournisseurs d'accès Internet (FAI) attribuent des adresses IP publiques aux utilisateurs, mais le nombre d'adresses IPv4 publiques disponibles est limité.
+Adresse IP privée :
+
+Les adresses IP privées sont utilisées à l'intérieur de réseaux privés, comme les réseaux domestiques ou d'entreprise.
+Elles ne sont pas routables sur Internet et sont généralement utilisées pour le trafic interne d'un réseau.
+Les adresses IPv4 privées comprennent les plages 10.0.0.0/8, 172.16.0.0/12, et 192.168.0.0/16, tandis qu'IPv6 a des plages spécifiques réservées pour un usage privé.
+Adresse IP réservée :
+
+Certaines adresses IP sont réservées à des fins spécifiques. Par exemple, 127.0.0.1 est réservée pour la boucle locale (localhost) dans IPv4, tandis que des plages d'adresses sont réservées pour des usages spécifiques, comme les adresses multicast dans IPv4 (classe D) et IPv6.
+Adresse IP statique vs dynamique :
+
+Une adresse IP statique est une adresse fixe attribuée manuellement à un dispositif. Elle ne change pas.
+Une adresse IP dynamique est attribuée par un serveur DHCP (Dynamic Host Configuration Protocol) et peut changer périodiquement.
+
+
+Couche 1 - Physique
+Transmission de bits sur un support physique
+Fibre optique, cable RJ45
+
+Couche 2 - Liaison de données
+Gestion des trames, contrôle d'accès au support
+Ethernet, MAC, Wi-Fi, cable RJ45
+
+Couche 3 - Réseau
+Routage des données, adressage logique
+IPv4, IPv6, routeur
+
+Couche 4 - Transport
+Gestion de la communication point à point, contrôle d'erreur
+TCP, UDP
+
+Couche 5 - Session	
+Gestion de sessions et de connexions	
+SSL/TLS, PPTP
+
+Couche 6 - Présentation
+Translation des données, cryptage, compression	
+SSL/TLS, HTML
+
+Couche 7 - Application	
+Interface utilisateur, communication avec les applications	
+HTTP, FTP, PPTP, SSL/TLS, HTML
+
+
+
+le masque de sous-réseau que nous utilisons détermine la taille du sous-réseau et le nombre d'adresses IP disponibles. Par exemple, un masque de sous-réseau de 255.255.255.0 permet 256 adresses IP.
+
+2pu0 = 
+2pu1 =
+
+
+
+
+
+128 = 2p7
+64 = 2p6
+32 = 2p5
+16 = 2p4
+8 = 2p3
+4 = 2p2
+2 = 2p1
+1 = 2p0
+
+145.32.59.24
+
+->128?, ->64?, ->32?,->16?, ->8?, ->4?, ->2?, ->1 ?
+   1       0      0     1     0     0     0     1
+   0       0      1      0    0     0     0     0
+   0       0      1      1     1     0     1     1
+   0        0     0      1     1     0     0     0
+
+128 64 32 16 8 4 2 1
+
+
+200.42.129.16
+
+128   64  32  16  8  4  2  1
+  1    1   0   0   1  0  0  0
+ 0     0   1   0   1  0  1   0
+ 1      0  0    0   0  0  0  1
+ 0     0   0    1   0  0  0  0
+
+14.82.19.54
+
+128 64 32 16 8 4 2 1
+0    0  0  0 1 1  1 0
+0    1  0   1 0 0 1 0
+0    0  0   1 0  0 1 1
+0    0  1   1  0  1 1 0
+
+
+Pour calculer l'adresse de diffusion du réseau 192.168.10.0, nous avons besoin de connaître le masque de sous-réseau associé. Les adresses de diffusion dépendent du masque de sous-réseau car elles sont calculées en fonction de ce masque. Supposons que le masque de sous-réseau soit 255.255.255.0, ce qui est courant pour un réseau de classe C.
+Ensuite, nous effectuons une opération XOR entre l'adresse IP du réseau (192.168.10.0) et l'inverse du masque de sous-réseau (0.0.0.255) pour trouver l'adresse de diffusion. Voici le calcul :
+Adresse de diffusion = 192.168.10.0 XOR 0.0.0.255
+En binaire, cela donne :
+192.168.10.0 : 11000000.10101000.00001010.00000000 0.0.0.255 : 00000000.00000000.00000000.11111111
+Effectuons l'opération XOR octet par octet :
+Pour le premier octet : 11000000 XOR 00000000 = 11000000
+Pour le deuxième octet : 10101000 XOR 00000000 = 10101000
+Pour le troisième octet : 00001010 XOR 00000000 = 00001010
+Pour le quatrième octet : 00000000 XOR 11111111 = 11111111
+L'adresse de diffusion est donc 192.168.10.255 pour ce réseau spécifique avec un masque de sous-réseau de 255.255.255.0.
+
+
+
+
+
+
+
